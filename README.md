@@ -10,7 +10,7 @@
 
 ```
 docker run -d -p 8000:8000 changwoo/kpc-web
-````
+```
 
 
 ## 소스에서 실행
@@ -18,3 +18,8 @@ docker run -d -p 8000:8000 changwoo/kpc-web
 ```
 docker-compose up -d .
 ```
+
+
+## 브라우저에서
+
+http://localhost:8000/ 열기
