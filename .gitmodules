@@ -1,0 +1,3 @@
+[submodule "external/ko-po-check"]
+	path = external/ko-po-check
+	url = https://github.com/changwoo/ko-po-check.git
